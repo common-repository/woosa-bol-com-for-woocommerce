@@ -1,0 +1,1006 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Woosa - bol.com for WooCommerce - light version\n"
+"POT-Creation-Date: 2019-10-30 16:44+0100\n"
+"PO-Revision-Date: 2019-10-30 16:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woosa-bol.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: includes/class-assets.php:118
+msgid "Processing..."
+msgstr ""
+
+#: includes/class-assets.php:120
+msgid "Are you sure you want to mark this retun as handled?"
+msgstr ""
+
+#: includes/class-core.php:127
+#, php-format
+msgid ""
+"You have reached the maximum limit (%s) of published products, please check "
+"our PRO version of %s for unlimited products and other awesome features!"
+msgstr ""
+
+#: includes/class-core.php:137
+#, php-format
+msgid ""
+"Your server must have at least cURL %s, please contact your hosting provider "
+"to upgrade this, otherwise this plugin might not work properly!"
+msgstr ""
+
+#: includes/class-core.php:172
+msgid "Available in PRO version"
+msgstr ""
+
+#: includes/class-core.php:173
+msgid ""
+"Get the PRO version and enjoy the awesome features and ofcourse unlimited "
+"support & updates!"
+msgstr ""
+
+#: includes/class-core.php:174
+#: includes/pages/settings/class-settings-general.php:199
+#: includes/pages/settings/class-tools.php:116
+msgid "Let's get the PRO version"
+msgstr ""
+
+#: includes/class-core.php:230
+msgid "Publishing products..."
+msgstr ""
+
+#: includes/class-core.php:304 includes/pages/settings/class-settings.php:91
+#: includes/pages/settings/class-settings.php:92
+msgid "Settings"
+msgstr ""
+
+#: includes/class-core.php:305
+msgid "Logs"
+msgstr ""
+
+#: includes/class-core.php:306
+msgid "Check for Updates"
+msgstr ""
+
+#: includes/class-core.php:407
+#, php-format
+msgid "This plugin requires %s plugin to be installed and active!"
+msgstr ""
+
+#: includes/class-core.php:482
+#, php-format
+msgid "Your server must have at least PHP 7.1! Please upgrade! %sGo back%s"
+msgstr ""
+
+#: includes/class-core.php:490
+#, php-format
+msgid "You need at least Wordpress 4.5! Please upgrade! %sGo back%s"
+msgstr ""
+
+#: includes/pages/class-addons.php:62 includes/pages/class-addons.php:63
+#: templates/addons-page.php:18
+msgid "Addons"
+msgstr ""
+
+#: includes/pages/class-addons.php:96
+msgid "Woosa - multi-account for bol.com"
+msgstr ""
+
+#: includes/pages/class-addons.php:98
+msgid ""
+"This extension allows customers to sell products on bol.com by using up to 5 "
+"accounts."
+msgstr ""
+
+#: includes/pages/class-invoices.php:69
+msgid "Invoice ID"
+msgstr ""
+
+#: includes/pages/class-invoices.php:87 includes/pages/class-invoices.php:91
+msgid "Invoice"
+msgstr ""
+
+#: includes/pages/class-invoices.php:88
+msgid "Display imported invoices"
+msgstr ""
+
+#: includes/pages/class-invoices.php:90 includes/pages/class-invoices.php:97
+msgid "Invoices"
+msgstr ""
+
+#: includes/pages/class-invoices.php:92 includes/pages/class-invoices.php:93
+#: includes/pages/class-returns.php:93 includes/pages/class-returns.php:94
+#: includes/pages/settings/class-settings-general.php:153
+#: includes/pages/settings/class-settings-general.php:172
+#: templates/panel-product-simple.php:67 templates/panel-product-simple.php:85
+#: templates/panel-product-variable.php:104
+#: templates/panel-product-variable.php:121
+msgid "Bol.com"
+msgstr ""
+
+#: includes/pages/class-invoices.php:94 includes/pages/class-returns.php:95
+msgid "Item Archives"
+msgstr ""
+
+#: includes/pages/class-invoices.php:95 includes/pages/class-returns.php:96
+msgid "Item Attributes"
+msgstr ""
+
+#: includes/pages/class-invoices.php:96 includes/pages/class-returns.php:97
+msgid "Parent Item:"
+msgstr ""
+
+#: includes/pages/class-invoices.php:98
+msgid "Add new invoice"
+msgstr ""
+
+#: includes/pages/class-invoices.php:99
+msgid "Add invoice"
+msgstr ""
+
+#: includes/pages/class-invoices.php:100
+msgid "New invoice"
+msgstr ""
+
+#: includes/pages/class-invoices.php:101
+msgid "Edit invoice"
+msgstr ""
+
+#: includes/pages/class-invoices.php:102
+msgid "Update invoice"
+msgstr ""
+
+#: includes/pages/class-invoices.php:103
+msgid "View invoice"
+msgstr ""
+
+#: includes/pages/class-invoices.php:104
+msgid "View invoices"
+msgstr ""
+
+#: includes/pages/class-invoices.php:105
+msgid "Search invoices"
+msgstr ""
+
+#: includes/pages/class-invoices.php:106 includes/pages/class-returns.php:107
+msgid "Not found"
+msgstr ""
+
+#: includes/pages/class-invoices.php:107 includes/pages/class-returns.php:108
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/pages/class-invoices.php:108 includes/pages/class-returns.php:109
+msgid "Featured Image"
+msgstr ""
+
+#: includes/pages/class-invoices.php:109 includes/pages/class-returns.php:110
+msgid "Set featured image"
+msgstr ""
+
+#: includes/pages/class-invoices.php:110 includes/pages/class-returns.php:111
+msgid "Remove featured image"
+msgstr ""
+
+#: includes/pages/class-invoices.php:111 includes/pages/class-returns.php:112
+msgid "Use as featured image"
+msgstr ""
+
+#: includes/pages/class-invoices.php:112 includes/pages/class-returns.php:113
+msgid "Insert into item"
+msgstr ""
+
+#: includes/pages/class-invoices.php:113 includes/pages/class-returns.php:114
+msgid "Uploaded to this item"
+msgstr ""
+
+#: includes/pages/class-invoices.php:114
+msgid "Invoices list"
+msgstr ""
+
+#: includes/pages/class-invoices.php:115
+msgid "Invoices list navigation"
+msgstr ""
+
+#: includes/pages/class-invoices.php:116
+msgid "Filter invoices list"
+msgstr ""
+
+#: includes/pages/class-returns.php:70 includes/remote/class-accounts.php:54
+#: includes/remote/class-accounts.php:56
+msgid "Status"
+msgstr ""
+
+#: includes/pages/class-returns.php:88 includes/pages/class-returns.php:92
+msgid "Return"
+msgstr ""
+
+#: includes/pages/class-returns.php:89
+msgid "Display imported returns"
+msgstr ""
+
+#: includes/pages/class-returns.php:91 includes/pages/class-returns.php:98
+msgid "Returns"
+msgstr ""
+
+#: includes/pages/class-returns.php:99
+msgid "Add new Return"
+msgstr ""
+
+#: includes/pages/class-returns.php:100
+msgid "Add return"
+msgstr ""
+
+#: includes/pages/class-returns.php:101
+msgid "New return"
+msgstr ""
+
+#: includes/pages/class-returns.php:102
+msgid "Edit return"
+msgstr ""
+
+#: includes/pages/class-returns.php:103
+msgid "Update return"
+msgstr ""
+
+#: includes/pages/class-returns.php:104
+msgid "View return"
+msgstr ""
+
+#: includes/pages/class-returns.php:105
+msgid "View returns"
+msgstr ""
+
+#: includes/pages/class-returns.php:106
+msgid "Search returns"
+msgstr ""
+
+#: includes/pages/class-returns.php:115
+msgid "returns list"
+msgstr ""
+
+#: includes/pages/class-returns.php:116
+msgid "Returns list navigation"
+msgstr ""
+
+#: includes/pages/class-returns.php:117
+msgid "Filter returns list"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:23
+msgid "Account"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:42
+msgid "Bol.com account"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:141
+msgid "Status:"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:145
+msgid "Client ID"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:151
+msgid "Client Secret"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:158
+msgid "Publish products"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:158
+msgid "Choose whether or not to publish products in this account."
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:161
+#: includes/pages/settings/class-settings-account.php:175
+#: includes/pages/settings/class-settings-account.php:184
+#: includes/pages/settings/class-settings-account.php:193
+#: includes/pages/settings/class-settings-account.php:202
+#: includes/pages/settings/class-settings-account.php:211
+#: includes/pages/settings/class-settings-general.php:132
+msgid "Yes"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:162
+#: includes/pages/settings/class-settings-account.php:176
+#: includes/pages/settings/class-settings-account.php:185
+#: includes/pages/settings/class-settings-account.php:194
+#: includes/pages/settings/class-settings-account.php:203
+#: includes/pages/settings/class-settings-account.php:212
+msgid "No"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:168
+#: includes/pages/settings/class-settings-general.php:111
+#: includes/pages/settings/class-tools.php:100
+msgid "Available in PRO Version"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:172
+msgid "Import orders"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:172
+msgid ""
+"Choose whether or not to import orders from this account. Interval: 15 "
+"minutes"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:181
+msgid "Import invoices"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:181
+msgid ""
+"Choose whether or not to import invoices from this account. Interval: monthly"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:190
+msgid "Import returns"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:190
+msgid ""
+"Choose whether or not to import returns from this account. Interval: daily."
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:199
+msgid "Display commission"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:199
+msgid "Choose whether or not to show bol.com commission for imported orders"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:208
+msgid "Exclude VAT"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:208
+msgid "Choose whether or not to exclude VAT calculation for imported order"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:222
+msgid "Remove account"
+msgstr ""
+
+#: includes/pages/settings/class-settings-account.php:222
+msgid "Remove"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:23
+msgid "General"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:43
+msgid "General Settings"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:114
+msgid "EAN source"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:114
+msgid "Choose the source of the product EAN code."
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:117
+msgid "Default"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:118
+msgid "Use a specific custom field"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:119
+msgid "Use the product SKU"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:122
+msgid "Specify the field name"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:128
+msgid "Use WooCommerce price"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:128
+msgid ""
+"Choose whether or not to use the default WooCommerce product price at "
+"publishing on bol.com."
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:135
+msgid "Adjust the price (percentage/fixed amount)"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:141
+#: templates/panel-product-simple.php:42
+#: templates/panel-product-variable.php:80
+#, php-format
+msgid "Shipping cost (%s)"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:141
+msgid ""
+"The shipping cost that will be added to the product price at publishing on "
+"bol.com."
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:149
+#: templates/panel-product-simple.php:64
+#: templates/panel-product-variable.php:101
+msgid "Stock managed by"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:149
+#: templates/panel-product-simple.php:69
+#: templates/panel-product-variable.php:106
+msgid "Choose whether the retailer manages the stock levels or bol.com"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:152
+#: includes/pages/settings/class-settings-general.php:171
+#: templates/panel-product-simple.php:66 templates/panel-product-simple.php:84
+#: templates/panel-product-variable.php:103
+#: templates/panel-product-variable.php:120
+msgid "Retailer"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:158
+#: templates/panel-product-simple.php:73
+#: templates/panel-product-variable.php:109
+msgid "Delivery time"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:158
+#: templates/panel-product-simple.php:79
+#: templates/panel-product-variable.php:115
+msgid "Choose the delivery promise"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:168
+#: templates/panel-product-simple.php:82
+#: templates/panel-product-variable.php:118
+msgid "Fulfill by"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:168
+#: includes/pages/settings/class-settings-general.php:177
+#: templates/panel-product-simple.php:87
+#: templates/panel-product-variable.php:123
+msgid ""
+"Specifies whether the shipment will be fulfilled by the retailer or bol.com"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:177
+#: templates/panel-product-simple.php:90
+#: templates/panel-product-variable.php:126
+msgid "Condition"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:187
+msgid "Address format"
+msgstr ""
+
+#: includes/pages/settings/class-settings-general.php:187
+msgid "Choose the address format for the imported orders"
+msgstr ""
+
+#: includes/pages/settings/class-settings.php:112
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/pages/settings/class-settings.php:176
+msgid "Your settings have been saved."
+msgstr ""
+
+#: includes/pages/settings/class-settings.php:239
+msgid "The authorization has been done successfully!"
+msgstr ""
+
+#: includes/pages/settings/class-settings.php:243
+msgid ""
+"The authorization has failed, please make sure you provided a valid Client "
+"ID and Client Secret!"
+msgstr ""
+
+#: includes/pages/settings/class-settings.php:247
+msgid "The authorization has been revoked."
+msgstr ""
+
+#: includes/pages/settings/class-settings.php:251
+msgid "The authorization couldn't be revoked."
+msgstr ""
+
+#: includes/pages/settings/class-tools.php:21
+msgid "Tools"
+msgstr ""
+
+#: includes/pages/settings/class-tools.php:76
+msgid "Caching data has been cleared."
+msgstr ""
+
+#: includes/pages/settings/class-tools.php:93
+msgid "Clear cache"
+msgstr ""
+
+#: includes/pages/settings/class-tools.php:94
+msgid "This tool will clear all caching data which is stored in this moment."
+msgstr ""
+
+#: includes/pages/settings/class-tools.php:95
+#: includes/pages/settings/class-tools.php:104
+msgid "Click to clear"
+msgstr ""
+
+#: includes/pages/settings/class-tools.php:102
+msgid "Clear background process"
+msgstr ""
+
+#: includes/pages/settings/class-tools.php:103
+msgid ""
+"This tool will clear all background processes which are running (or got "
+"stuck) in this moment such as: importing orders/invoices/returns or "
+"syncronizing product stock"
+msgstr ""
+
+#: includes/pages/settings/class-tools.php:108
+msgid "Reset cron jobs"
+msgstr ""
+
+#: includes/pages/settings/class-tools.php:109
+msgid ""
+"This tool will reset all WP cron jobs such as: importing orders/invoices/"
+"returns and syncronizing product stock"
+msgstr ""
+
+#: includes/pages/settings/class-tools.php:110
+msgid "Click to reset"
+msgstr ""
+
+#: includes/remote/class-accounts.php:92
+msgid "No errors"
+msgstr ""
+
+#: includes/remote/class-accounts.php:119
+msgid "Not available"
+msgstr ""
+
+#: includes/remote/class-accounts.php:125
+#, php-format
+msgid "Adjust your price to %s or lower to receive a cost reduction of %s"
+msgstr ""
+
+#: includes/remote/class-accounts.php:128
+#, php-format
+msgid "You receive %s as cost reduction"
+msgstr ""
+
+#: includes/remote/class-accounts.php:423
+#, php-format
+msgid ""
+"Publishing products in this account is disabled, please %sgo to settings%s "
+"to enable it."
+msgstr ""
+
+#: includes/remote/class-accounts.php:445
+msgid ""
+"The EAN code is invalid (please check again) or is not recognized by bol."
+"com, in this case you should log in into bol.com account and add this "
+"manually."
+msgstr ""
+
+#: includes/remote/class-accounts.php:450
+msgid "Something went wrong while trying to publish this offer."
+msgstr ""
+
+#: includes/remote/class-accounts.php:501
+msgid "Offer stock could not be updated because there is no offer id found."
+msgstr ""
+
+#: includes/remote/class-accounts.php:518
+msgid "Something went wrong while trying to update offer stock."
+msgstr ""
+
+#: includes/remote/class-accounts.php:573
+msgid "Something went wrong while trying to delete this offer."
+msgstr ""
+
+#: includes/remote/class-api.php:107
+msgid "Authorized"
+msgstr ""
+
+#: includes/remote/class-api.php:110
+msgid "Unauthorized"
+msgstr ""
+
+#: includes/remote/class-api.php:125
+#, php-format
+msgid "%sClick to revoke%s"
+msgstr ""
+
+#: includes/remote/class-api.php:125
+#, php-format
+msgid "%sClick to authorize%s"
+msgstr ""
+
+#: includes/remote/class-api.php:574
+msgid "New"
+msgstr ""
+
+#: includes/remote/class-api.php:575
+msgid "As new"
+msgstr ""
+
+#: includes/remote/class-api.php:576
+msgid "Good"
+msgstr ""
+
+#: includes/remote/class-api.php:577
+msgid "Reasonable"
+msgstr ""
+
+#: includes/remote/class-api.php:578
+msgid "Moderate"
+msgstr ""
+
+#: includes/remote/class-api.php:626
+#, php-format
+msgid "Ordered before %s on working days, delivered the next working day."
+msgstr ""
+
+#: includes/remote/class-api.php:629
+#, php-format
+msgid "%s working days."
+msgstr ""
+
+#: includes/remote/class-api.php:643
+msgid "Out of stock"
+msgstr ""
+
+#: includes/remote/class-api.php:644
+msgid "Requested by customer"
+msgstr ""
+
+#: includes/remote/class-api.php:645
+msgid "Bad condition"
+msgstr ""
+
+#: includes/remote/class-api.php:646
+msgid "Higher shipcost"
+msgstr ""
+
+#: includes/remote/class-api.php:647
+msgid "Incorrect price"
+msgstr ""
+
+#: includes/remote/class-api.php:648
+msgid "Not available in time"
+msgstr ""
+
+#: includes/remote/class-api.php:649
+msgid "No BOL quarantee"
+msgstr ""
+
+#: includes/remote/class-api.php:650
+msgid "Ordered twice"
+msgstr ""
+
+#: includes/remote/class-api.php:651
+msgid "Retain item"
+msgstr ""
+
+#: includes/remote/class-api.php:652
+msgid "Technical issue"
+msgstr ""
+
+#: includes/remote/class-api.php:653
+msgid "Unfindable item"
+msgstr ""
+
+#: includes/remote/class-api.php:654
+msgid "Other"
+msgstr ""
+
+#: includes/remote/class-api.php:710
+msgid "Return received"
+msgstr ""
+
+#: includes/remote/class-api.php:711
+msgid "Exchange product"
+msgstr ""
+
+#: includes/remote/class-api.php:712
+msgid "Return does not meet conditions"
+msgstr ""
+
+#: includes/remote/class-api.php:713
+msgid "Repair product"
+msgstr ""
+
+#: includes/remote/class-api.php:714
+msgid "Customer keeps product paid"
+msgstr ""
+
+#: includes/remote/class-api.php:715
+msgid "Still approved"
+msgstr ""
+
+#: includes/remote/class-api.php:731
+msgid "Return completed"
+msgstr ""
+
+#: includes/remote/class-api.php:736
+msgid "No return available"
+msgstr ""
+
+#: includes/remote/class-api.php:755
+msgid "Published"
+msgstr ""
+
+#: includes/remote/class-api.php:760
+msgid "Not published"
+msgstr ""
+
+#: includes/remote/class-api.php:765
+msgid "Paused"
+msgstr ""
+
+#: includes/remote/class-api.php:770
+msgid "Pending"
+msgstr ""
+
+#: includes/remote/class-api.php:775
+msgid "Updating"
+msgstr ""
+
+#: includes/remote/class-api.php:780
+msgid "Deleting"
+msgstr ""
+
+#: includes/remote/class-api.php:785
+msgid "Error"
+msgstr ""
+
+#: includes/remote/class-api.php:790
+msgid "Information"
+msgstr ""
+
+#: includes/remote/class-api.php:810
+#: includes/woocommerce/class-product.php:1035
+msgid "Publish"
+msgstr ""
+
+#: includes/remote/class-api.php:814
+msgid "Unpause"
+msgstr ""
+
+#: includes/remote/class-api.php:818
+msgid "Put on pause"
+msgstr ""
+
+#: includes/remote/class-api.php:822
+#: includes/woocommerce/class-product.php:1036
+msgid "Update price"
+msgstr ""
+
+#: includes/remote/class-api.php:826
+msgid "Update reference code"
+msgstr ""
+
+#: includes/remote/class-api.php:830
+#: includes/woocommerce/class-product.php:1040
+msgid "Delete"
+msgstr ""
+
+#: includes/remote/class-handle-process-status.php:226
+#, php-format
+msgid ""
+"It looks like you do not have enough permissions to sell offers fulfilled by "
+"bol.com. Please %scontact bol.com%s for more details."
+msgstr ""
+
+#: includes/remote/class-handle-process-status.php:266
+msgid "An error has occurred while trying to retrieve the offer from bol.com"
+msgstr ""
+
+#: includes/woocommerce/class-product.php:207
+#, php-format
+msgid "Bol.com %s"
+msgstr ""
+
+#: includes/woocommerce/class-product.php:207
+msgid "Status of this product in bol.com"
+msgstr ""
+
+#: includes/woocommerce/class-product.php:349
+msgid "Some errors were found, check the product!"
+msgstr ""
+
+#: includes/woocommerce/class-product.php:353
+msgid "Adjust your price to receive the reduction, check the product!"
+msgstr ""
+
+#: includes/woocommerce/class-product.php:359
+msgid "This product has a cost reduction!"
+msgstr ""
+
+#: includes/woocommerce/class-product.php:532
+msgid "Please provide a valid product price (between 1 and 9999)."
+msgstr ""
+
+#: includes/woocommerce/class-product.php:533
+msgid "Please provide the EAN code."
+msgstr ""
+
+#: includes/woocommerce/class-product.php:534
+msgid "Please provide the product condition."
+msgstr ""
+
+#: includes/woocommerce/class-product.php:535
+msgid "Please provide a valid stock amount (between 0 and 999)."
+msgstr ""
+
+#: includes/woocommerce/class-product.php:536
+msgid "Please specify who will manage the stock amount."
+msgstr ""
+
+#: includes/woocommerce/class-product.php:537
+msgid "Please provide the time of delivery."
+msgstr ""
+
+#: includes/woocommerce/class-product.php:538
+msgid "Please specify who will fulfill the shipping."
+msgstr ""
+
+#: includes/woocommerce/class-product.php:539
+msgid "Please provide a valid reference (between 0 and 20 characters)."
+msgstr ""
+
+#: includes/woocommerce/class-product.php:633
+msgid ""
+"You first need to publish your WooCommerce product, before you can publish "
+"it on bol.com"
+msgstr ""
+
+#: includes/woocommerce/class-product.php:763
+msgid "Bol: Publish"
+msgstr ""
+
+#: includes/woocommerce/class-product.php:764
+msgid "Bol: Reset"
+msgstr ""
+
+#: includes/woocommerce/class-product.php:949
+#, php-format
+msgid "This EAN code %s already exists for this product: %s"
+msgstr ""
+
+#: includes/woocommerce/class-product.php:1032
+msgid "Action"
+msgstr ""
+
+#: includes/woocommerce/class-product.php:1034
+msgid "No action"
+msgstr ""
+
+#: includes/woocommerce/class-product.php:1037
+msgid "Update reference code, fulfilment & delivery time"
+msgstr ""
+
+#: includes/woocommerce/class-product.php:1038
+msgid "Update stock management"
+msgstr ""
+
+#: includes/woocommerce/class-product.php:1039
+msgid "Pause / Unpause"
+msgstr ""
+
+#: includes/woocommerce/class-product.php:1042
+msgid "Choose what action to apply in bol.com for this product"
+msgstr ""
+
+#: templates/addons-page.php:28
+msgid "Installed"
+msgstr ""
+
+#: templates/addons-page.php:30
+msgid "Read more"
+msgstr ""
+
+#: templates/panel-product-simple.php:34 templates/panel-product-simple.php:47
+#: templates/panel-product-simple.php:58
+#: templates/panel-product-variable.php:72
+#: templates/panel-product-variable.php:85
+#: templates/panel-product-variable.php:101
+msgid "Required"
+msgstr ""
+
+#: templates/panel-product-simple.php:34
+#: templates/panel-product-variable.php:72
+#, php-format
+msgid "Price (%s)"
+msgstr ""
+
+#: templates/panel-product-simple.php:47
+#: templates/panel-product-variable.php:85
+msgid "EAN code"
+msgstr ""
+
+#: templates/panel-product-simple.php:52
+#: templates/panel-product-variable.php:90
+msgid "Reference code"
+msgstr ""
+
+#: templates/panel-product-simple.php:58
+#: templates/panel-product-variable.php:95
+msgid "Stock quantity"
+msgstr ""
+
+#: templates/panel-product-simple.php:60
+#: templates/panel-product-variable.php:97
+msgid "Set quantity"
+msgstr ""
+
+#: templates/panel-product-simple.php:61
+#: templates/panel-product-variable.php:98
+msgid ""
+"Whenever you set this it will also update automatically the offer stock in "
+"bol.com"
+msgstr ""
+
+#: templates/panel-product-simple.php:96
+#: templates/panel-product-variable.php:132
+msgid "Choose the product condition"
+msgstr ""
+
+#: templates/panel-product-simple.php:110
+#: templates/panel-product-variable.php:146
+msgid "These are required fields, please make sure to set a value for them!"
+msgstr ""
+
+#: templates/panel-product-variable.php:156
+msgid "Refresh"
+msgstr ""
+
+#: templates/settings-page.php:47
+msgid "Save changes"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Woosa - bol.com for WooCommerce - light version"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Sell your products on bol.com and realize more revenue within your "
+"WooCommerce webshop."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Woosa"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.woosa.nl"
+msgstr ""
